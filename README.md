@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/Java-ED8B00)
 A Student Registration Form in a DevOps project is a web-based application that allows students to enter and manage their registration details while demonstrating the use of DevOps practices for software development, testing, deployment, and monitoring.
 
 Description
